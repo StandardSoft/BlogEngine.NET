@@ -23,7 +23,7 @@
         <div class="account">
             <div class="account-header text-center">
                 <a href="https://blogengine.io/" target="_blank">
-                    <img alt="BlogEngine.NET" src="../Content/images/blog/logo.png" /></a>
+                    <img alt="BlogEngine.NET" src="../Content/images/blog/jdplogo.png" /></a>
             </div>
              <div id="StatusBox">
                     <div id="AdminStatus" runat="server" style="display: none"></div>
