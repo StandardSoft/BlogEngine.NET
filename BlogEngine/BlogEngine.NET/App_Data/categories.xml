@@ -1,4 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <categories>
-    <category id="19770e74-9ec9-4cde-b2ab-e5051aaaf348" description="Posts about my adventures with BlogEngine.NET" parent="">BlogEngine.NET</category>
+    <category id="222c72c1-f8ad-4bc7-abda-823e95a8c9f7" description="">Musharraf</category>
+    <category id="4d6fb932-5c29-45c8-8854-b6129da656b6" description="">Judges</category>
+    <category id="c0daab30-5308-4552-ba6b-5b88175e8b25" description="">Army</category>
+    <category id="b67a3532-6ae6-4600-83c4-8c3426524ef2" description="">Imran Khan</category>
+    <category id="b4fcf796-f929-49e7-bac1-1dde312a5ff3" description="">Benazir</category>
+    <category id="3387a590-5acf-498c-92c4-1a99459cb38e" description="">Nawaz Sharif</category>
+    <category id="9ad3ca7d-baf9-4e8e-acde-643d46692fb3" description="">MMA</category>
+    <category id="9be6af36-3704-4fb2-940e-f3fe8e4d9fea" description="">Politics</category>
+    <category id="4011c735-954c-4985-bc48-cf0b2816fc19" description="">PTI</category>
+    <category id="cfe06b7b-4fa4-4908-9764-6607f25f9f38" description="">Videos</category>
+    <category id="e51d6b2e-4b3f-439c-ad25-80a38613d2e2" description="">Media</category>
+    <category id="36d4839b-dbb4-4231-8d20-1925ce8aed8d" description="">Cheif Justice</category>
+    <category id="a8bcdad0-743e-4215-bb56-e959d828ed9d" description="">Lawyers</category>
+    <category id="77aaeaca-44b7-4987-8967-e5125aeec852" description="">Judiciary</category>
+    <category id="1986be27-84a5-4ea8-81be-96a744222f03" description="">Petitions</category>
+    <category id="ac3aa914-3d5e-4a2b-87ee-86d5b67d9343" description="">Doctors</category>
+    <category id="355ca133-0e51-47b2-830c-6f30f9038914" description="">Students</category>
+    <category id="22985a07-592b-42d8-af93-d6941528f728" description="">Protest</category>
+    <category id="3c5f5cde-469d-46d6-885d-51b51371049d" description="">Elections</category>
+    <category id="8a2286da-cc18-4aae-b739-40ac73041121" description=""> resistance poetry, art and literature</category>
 </categories>

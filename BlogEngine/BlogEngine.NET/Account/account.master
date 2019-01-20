@@ -22,8 +22,8 @@
     <form id="Form1" runat="server">
         <div class="account">
             <div class="account-header text-center">
-                <a href="https://blogengine.io/" target="_blank">
-                    <img alt="BlogEngine.NET" src="../Content/images/blog/jdplogo.png" /></a>
+                <a href="https://standardsoftware.net/" target="_blank">
+                    <img alt="Standard Software" src="../Content/images/blog/jdplogo.png" /></a>
             </div>
              <div id="StatusBox">
                     <div id="AdminStatus" runat="server" style="display: none"></div>

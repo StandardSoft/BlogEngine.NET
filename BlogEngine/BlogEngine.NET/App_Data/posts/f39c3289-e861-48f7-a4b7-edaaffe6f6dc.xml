@@ -24,7 +24,7 @@
 &lt;p&gt;Good luck and happy writing.&lt;/p&gt;
 &lt;p&gt;The BlogEngine.NET team&lt;/p&gt;</content>
   <ispublished>True</ispublished>
-  <isdeleted>False</isdeleted>
+  <isdeleted>True</isdeleted>
   <iscommentsenabled>True</iscommentsenabled>
   <pubDate>2018-05-20 22:00:00</pubDate>
   <lastModified>2018-05-21 22:48:52</lastModified>
@@ -57,8 +57,6 @@
       <content>Reply from visitor2 on comment by visitor1.</content>
     </comment>
   </comments>
-  <categories>
-    <category>19770e74-9ec9-4cde-b2ab-e5051aaaf348</category>
-  </categories>
+  <categories />
   <notifications />
 </post>

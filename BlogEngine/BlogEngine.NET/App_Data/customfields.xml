@@ -24,4 +24,17 @@
     <item customtype="THEME" objectid="Standard" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Github Account" value="" attribute="" />
     <item customtype="THEME" objectid="Standard" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Publisher Logo" value="http://exampleblog.com/logo.png" attribute="" />
     <item customtype="THEME" objectid="Standard" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Post Thumbnail position" value="top" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Logo" value="/Custom/Themes/clean/src/img/logo.png" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Hamburger button style" value="hamburger--squeeze" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Facebook Account" value="#" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Twitter Account" value="#" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Google Plus Account" value="#" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Linkedin Account" value="#" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Instagramm Account" value="#" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Youtube Account" value="" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Github Account" value="" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Pinterest Account" value="" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Publisher Logo" value="http://exampleblog.com/logo.png" attribute="" />
+    <item customtype="THEME" objectid="clean" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Share (show or hide)" value="show" attribute="" />
+    <item customtype="THEME" objectid="jdp" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Logo" value="/Custom/Themes/jdp/src/img/logo.png" attribute="" />
 </CustomFields>

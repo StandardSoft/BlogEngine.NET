@@ -1,103 +1,115 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <settings>
   <showpostnavigation>True</showpostnavigation>
-  <enablehttpcompression>False</enablehttpcompression>
+  <enablehttpcompression>True</enablehttpcompression>
   <emailsubjectprefix>Weblog</emailsubjectprefix>
   <htmlheader />
-  <theme>Standard</theme>
+  <theme>jdp</theme>
   <facebooklanguage>en_US</facebooklanguage>
-  <trackingscript />
+  <trackingscript>&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9761823-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</trackingscript>
   <showdescriptioninpostlist>False</showdescriptioninpostlist>
-  <commentsperpage>10</commentsperpage>
+  <commentsperpage>20</commentsperpage>
   <feedauthor />
-  <description>Short description of the blog</description>
-  <enablepingbacksend>True</enablepingbacksend>
+  <description>Hakim Hazik</description>
+  <enablepingbacksend>False</enablepingbacksend>
   <postoptionscustomfields>False</postoptionscustomfields>
   <enabletagexport>True</enabletagexport>
   <iscocommentenabled>False</iscocommentenabled>
-  <compresswebresource>False</compresswebresource>
-  <endorsement>https://blogengine.io/syndication.axd</endorsement>
+  <compresswebresource>True</compresswebresource>
+  <endorsement />
   <themecookiename>theme</themecookiename>
   <remotefiledownloadtimeout>30000</remotefiledownloadtimeout>
   <trustauthenticatedusers>True</trustauthenticatedusers>
-  <enablecountryincomments>False</enablecountryincomments>
+  <enablecountryincomments>True</enablecountryincomments>
   <contactformmessage>&lt;p&gt;I'll answer the mail as soon as I can.&lt;/p&gt;</contactformmessage>
   <searchbuttontext>Search</searchbuttontext>
   <showincludecommentsoption>False</showincludecommentsoption>
   <createblogonselfregistration>False</createblogonselfregistration>
-  <enablewebsiteincomments>True</enablewebsiteincomments>
-  <enablecontactattachments>False</enablecontactattachments>
+  <enablewebsiteincomments>False</enablewebsiteincomments>
+  <enablecontactattachments>True</enablecontactattachments>
   <blogrollmaxlength>23</blogrollmaxlength>
   <language>en-US</language>
-  <smtpserver>smtp.gmail.com</smtpserver>
+  <smtpserver>smtp.umersami.com</smtpserver>
   <disqusdevmode>False</disqusdevmode>
   <customfrontpage />
-  <postsperpage>10</postsperpage>
-  <enabletrackbackreceive>True</enabletrackbackreceive>
+  <postsperpage>20</postsperpage>
+  <enabletrackbackreceive>False</enabletrackbackreceive>
   <enableopensearch>True</enableopensearch>
   <dayscommentsareenabled>0</dayscommentsareenabled>
   <useblognameinpagetitles>True</useblognameinpagetitles>
-  <pageoptionsdescription>True</pageoptionsdescription>
+  <pageoptionsdescription>False</pageoptionsdescription>
   <removeextensionsfromurls>True</removeextensionsfromurls>
-  <smtpusername>youremail@gmail.com</smtpusername>
+  <smtpusername>umersamicom</smtpusername>
   <enablepasswordreset>True</enablepasswordreset>
   <disqusaddcommentstopages>False</disqusaddcommentstopages>
   <alternatefeedurl />
-  <errortitle>Ooops! An unexpected error has occurred.</errortitle>
-  <email>youremail@gmail.com</email>
-  <enabletrackbacksend>True</enabletrackbacksend>
+  <errortitle />
+  <email>admin@umersami.com</email>
+  <enabletrackbacksend>False</enabletrackbacksend>
   <showdescriptioninpostlistforpostsbytagorcategory>False</showdescriptioninpostlistforpostsbytagorcategory>
-  <contacterrormessage>&lt;p&gt;This form does not work at the moment. Sorry for the inconvenience.&lt;/p&gt;</contacterrormessage>
+  <contacterrormessage />
   <enablecommentsmoderation>True</enablecommentsmoderation>
-  <allowservertodownloadremotefiles>True</allowservertodownloadremotefiles>
+  <allowservertodownloadremotefiles>False</allowservertodownloadremotefiles>
   <enablereferrertracking>False</enablereferrertracking>
   <disquswebsitename />
   <handlewwwsubdomain />
   <commentprovider>BlogEngine</commentprovider>
-  <postsperfeed>3</postsperfeed>
-  <sendmailoncomment>True</sendmailoncomment>
+  <postsperfeed>10</postsperfeed>
+  <sendmailoncomment>False</sendmailoncomment>
   <culture>Auto</culture>
   <remotemaxfilesize>524288</remotemaxfilesize>
   <redirecttoremovefileextension>False</redirecttoremovefileextension>
   <syndicationformat>Rss</syndicationformat>
-  <postoptionsslug>True</postoptionsslug>
+  <postoptionsslug>False</postoptionsslug>
   <blogrollvisibleposts>3</blogrollvisibleposts>
   <geocodinglatitude>0</geocodinglatitude>
-  <pageoptionsslug>True</pageoptionsslug>
+  <pageoptionsslug>False</pageoptionsslug>
   <numberofreferrerdays>1</numberofreferrerdays>
   <israzortheme>False</israzortheme>
   <iscommentsenabled>True</iscommentsenabled>
   <searchdefaulttext>Enter search term or APML url</searchdefaulttext>
-  <smtpserverport>587</smtpserverport>
-  <smtppassword>password</smtppassword>
-  <iscommentnestingenabled>True</iscommentnestingenabled>
+  <smtpserverport>25</smtpserverport>
+  <smtppassword>ushw2680</smtppassword>
+  <iscommentnestingenabled>False</iscommentnestingenabled>
   <timestamppostlinks>False</timestamppostlinks>
-  <avatar>none</avatar>
+  <avatar>wavatar</avatar>
   <timezoneid>UTC</timezoneid>
   <moderationtype>Auto</moderationtype>
   <enablerecaptchaoncontactform>False</enablerecaptchaoncontactform>
   <enableoptimization>False</enableoptimization>
-  <name>Name of the blog</name>
-  <pageoptionscustomfields>True</pageoptionscustomfields>
-  <enablepingbackreceive>True</enablepingbackreceive>
-  <showlivepreview>False</showlivepreview>
+  <name>Justice Denied</name>
+  <pageoptionscustomfields>False</pageoptionscustomfields>
+  <enablepingbackreceive>False</enablepingbackreceive>
+  <showlivepreview>True</showlivepreview>
   <facebookappid />
   <searchcommentlabeltext>Include comments in search</searchcommentlabeltext>
   <enablerelatedposts>True</enablerelatedposts>
-  <enableenclosures>False</enableenclosures>
-  <authorname>My name</authorname>
+  <enableenclosures>True</enableenclosures>
+  <authorname>JDP</authorname>
   <descriptioncharacters>300</descriptioncharacters>
   <enablessl>False</enablessl>
-  <errortext>This one's down to me! Please accept my apologies for this - I'll see to it that the developer responsible for this happening is given 20 lashes (but only after he or she has fixed this problem).</errortext>
+  <errortext />
   <contactthankmessage>&lt;h1&gt;Thank you&lt;/h1&gt;&lt;p&gt;The message was sent.&lt;/p&gt;</contactthankmessage>
   <descriptioncharactersforpostsbytagorcategory>0</descriptioncharactersforpostsbytagorcategory>
   <commentreportmistakes>False</commentreportmistakes>
-  <postoptionsdescription>True</postoptionsdescription>
+  <postoptionsdescription>False</postoptionsdescription>
   <geocodinglongitude>0</geocodinglongitude>
-  <selfregistrationinitialrole>Editors</selfregistrationinitialrole>
+  <selfregistrationinitialrole>Select</selfregistrationinitialrole>
   <enableselfregistration>False</enableselfregistration>
   <blogrollupdateminutes>60</blogrollupdateminutes>
-  <securityvalidationkey>ede308e723ae42aab289b04350133355accaa0f0da9743e7a8529a0cbbf5bceee5bcafc4eac741f68d2d63d80e21bf8e</securityvalidationkey>
+  <securityvalidationkey>56c6b03765ef4dee9798c99f3c677e23c4f8886e5cd44125bcaeaf1cecef74d9bda9378f5bd2449c84452a107d943803</securityvalidationkey>
   <requiresslmetaweblogapi>False</requiresslmetaweblogapi>
   <enablerating>True</enablerating>
   <enablecommentsearch>True</enablecommentsearch>

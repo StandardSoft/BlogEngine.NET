@@ -7,12 +7,12 @@
   <CityTown />
   <RegionState />
   <Country>dk</Country>
-  <Birthday>1900-01-01</Birthday>
+  <Birthday>0001-01-01</Birthday>
   <AboutMe>I love BlogEngine.NET
 </AboutMe>
   <PhotoURL />
   <Company />
-  <EmailAddress>post@example.com</EmailAddress>
+  <EmailAddress>umer.sami@gmail.com</EmailAddress>
   <PhoneMain />
   <PhoneMobile />
   <PhoneFax />

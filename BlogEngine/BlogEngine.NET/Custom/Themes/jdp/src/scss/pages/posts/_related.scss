@@ -1,0 +1,29 @@
+.related-posts {
+    list-style: none;
+    padding: 0;
+
+    .related-posts-item {
+
+        a {
+            display: block;
+            height: 100%;
+            font-size: 1rem;
+            color: #000;
+            background: #fff;
+            padding: 1rem;
+            font-weight: 500;
+            transition: background ease-in .25s;
+
+            &:hover {
+                background: $color-theme-primary;
+                color: #fff;
+            }
+        }
+    }
+}
+
+@media screen and (max-width:64rem - .0625rem) {
+    #relatedPosts {
+        display: none;
+    }
+}

@@ -8,7 +8,7 @@
 --%>
 <html>
 <head id="Head1" runat="server">
-    <title>BlogEngine.NET Admin</title>
+    <title>Admin</title>
     <link href="~/Content/bootstrap.css" rel="stylesheet"/>
     <style>
         .alert-info { margin-right: 10px; }

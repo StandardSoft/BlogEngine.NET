@@ -1,0 +1,188 @@
+#widgetzone_slider {
+    .widget {
+        margin: 0;
+    }
+
+    .owl-item {
+        opacity: .5;
+        transition: opacity .5s ease;
+
+        &::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 100%;
+            background: #fff;
+            z-index: 2;
+            display: block;
+            width: 1px;
+            opacity: .05;
+        }
+
+        &.active {
+            opacity: 1;
+
+            .post-item-title, .post-item-date {
+                opacity: 1;
+                visibility: visible;
+            }
+
+            .post-item-title {
+                top: 0;
+            }
+
+            .post-item-date {
+                top: -3rem;
+            }
+        }
+    }
+
+    .widget-header {
+        display: none;
+    }
+
+    .postlist {
+        ul {
+            display: none;
+        }
+    }
+
+    .post-item-list {
+        position: relative;
+        height: 40rem;
+        background: #000;
+        overflow: hidden;
+
+        a {
+            display: block;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 4rem 4rem 3rem;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+
+            &:hover {
+                &::before {
+                    opacity: .75;
+                }
+            }
+        }
+
+        .post-item-img {
+            width: auto;
+            min-height: 100%;
+            min-width: 100%;
+            max-width: 200%;
+            max-height: none;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            display: block;
+            transform: translate(-50%,-50%); 
+        }
+
+        .post-item-title, .post-item-date {
+            opacity: 0;
+            visibility: hidden;
+            transition: all ease .5s;
+            position: relative;
+            z-index: 5;
+            color: #000;
+            width: 30rem;
+            top: 3rem;
+        }
+
+        .post-item-title {
+            margin: 0;
+            margin-top: auto;
+            display: block;
+            font-weight: 700;
+            font-size: 1.5rem;
+            padding: 2rem 2rem 4rem;
+            background: #fff;
+            box-shadow: 0 0 2rem rgba(0, 0, 0, 0.15);
+        }
+
+        .post-item-desc {
+            display: none !important;
+        }
+
+        .post-item-date {
+            font-size: .75rem;
+            text-transform: uppercase;
+            font-weight: 400;
+            letter-spacing: 1px;
+            padding: 0 2rem;
+            position: relative;
+            top: 0rem;
+
+            &::before {
+                @include icon("\f017");
+                font-size: .75rem;
+                margin-right: .25rem;
+            }
+        }
+    }
+
+    @media screen and (max-width:99.9375rem) {
+        .post-item-list {
+            height: 38rem;
+        }
+    }
+
+    @media screen and (max-width:89.9375rem) {
+        .post-item-list {
+            height: 30rem;
+        }
+    }
+
+    @media screen and (max-width:63.9375rem) {
+        .post-item-list {
+            height: 25rem;
+        }
+    }
+
+    @media screen and (max-width:59.9375rem) {
+        .post-item-list {
+            a {
+                padding: 0;
+            }
+
+            .post-item-title {
+                padding: 1rem;
+                width: 100%;
+                background: #000;
+                opacity: .5;
+                color: #fff;
+                font-size: 1rem;
+                text-align: center;
+            }
+
+            .post-item-date {
+                display: none;
+            }
+        }
+    }
+
+    @media screen and (max-width:39.9375rem) {
+        .post-item-list {
+            height: 20rem;
+        }
+    }
+
+    @media screen and (max-width:29.9375rem) {
+        .post-item-list {
+            height: 15rem;
+
+            .post-item-title {
+                font-size: .875rem;
+                font-weight: normal;
+            }
+        }
+    }
+}

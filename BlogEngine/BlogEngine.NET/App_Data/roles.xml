@@ -4,11 +4,20 @@
     <name>Administrators</name>
     <users>
       <user>Admin</user>
+      <user>UmerSami</user>
     </users>
   </role>
   <role>
     <name>Editors</name>
-    <users />
+    <users>
+      <user>Admin</user>
+      <user>Editor</user>
+      <user>UmerSami</user>
+      <user>asaeed</user>
+      <user>editor</user>
+      <user>eidtor</user>
+      <user>editor2</user>
+    </users>
   </role>
   <role>
     <name>Anonymous</name>

@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widgets>
-  <widget id="e53c0e19-c61b-4f6e-aa90-09da817488bc" title="Administration" showTitle="True">Administration</widget>
-  <widget id="a305a372-ba9f-49b3-ac49-1453faa3efc0" title="Search" showTitle="True">Search</widget>
-  <widget id="21108331-e283-4807-a4f6-f1db31163608" title="Category List" showTitle="True">CategoryList</widget>
-  <widget id="5bf32012-4aa3-4031-8346-4d36f0fda6d9" title="Post List" showTitle="True">PostList</widget>
-  <widget id="abde36cb-9ba6-4645-afc3-c0e4292ce72e" title="Newsletter" showTitle="True">Newsletter</widget>
-  <widget id="4b7cb5e1-b090-4779-b7bc-24898a269477" title="Comment List" showTitle="True">CommentList</widget>
-  <widget id="4cb23700-ca29-4c88-a46c-9a262a9f4240" title="Month List" showTitle="True">MonthList</widget>
+  <widget id="9ed463b6-ed68-4e33-962c-379fb67f8e13" title="Search" showTitle="True">Search</widget>
+  <widget id="c54840c1-e568-406f-bad1-c82c1f90eb47" title="RecentComments" showTitle="True">RecentComments</widget>
+  <widget id="1b1bb823-3b91-4542-a4a6-92411090c170" title="RecentPosts" showTitle="True">RecentPosts</widget>
+  <widget id="792bf016-c8b9-48c4-b510-6370910be936" title="Month List" showTitle="True">Month List</widget>
+  <widget id="c8d2c076-9079-4018-bc56-957086c23f5d" title="Administration" showTitle="True">Administration</widget>
 </widgets>

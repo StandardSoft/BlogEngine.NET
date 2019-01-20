@@ -1,0 +1,28 @@
+﻿.blog-header {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background: #000;
+    position: relative;
+    min-height: 3rem;
+    z-index: 200;
+
+    .blog-nav-toggle {
+        outline: none !important;
+        height: 3.375rem;
+        padding: 0;
+        padding-top: .5rem
+    }
+
+    .blog-logo {
+        display: block;
+
+        img {
+            display: block;
+        }
+    }
+    
+    @media screen and (max-width:61.9375rem) {
+        padding: 0;
+    }
+
+}

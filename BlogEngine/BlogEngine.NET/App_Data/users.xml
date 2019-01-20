@@ -1,8 +1,20 @@
 <Users>
   <User>
     <UserName>Admin</UserName>
-    <Password>jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=</Password>
-    <Email>post@example.com</Email>
-    <LastLoginTime>2007-12-05 20:46:40</LastLoginTime>
+    <Password>ZiECNMUty/oZJUSr7WgUJRM4amNjo2Hyxn4Eaasd3mo=</Password>
+    <Email>umer.sami@gmail.com</Email>
+    <LastLoginTime>2007-11-12 14:42:22</LastLoginTime>
+  </User>
+  <User>
+    <UserName>editor</UserName>
+    <Password>QuIMvpQiSdhYiOt4EyK4r5EPTDc5Vnvjw4KzzUdPuAM=</Password>
+    <Email>saeedaa@gmail.com</Email>
+    <LastLoginTime>2008-07-01 22:09:14</LastLoginTime>
+  </User>
+  <User>
+    <UserName>editor2</UserName>
+    <Password>eZcw7WFpU7ULt7kTohfOdOkmDWg1cbGS5H8WFf3Xnz8=</Password>
+    <Email>saeedaa@gmail.com</Email>
+    <LastLoginTime>2008-07-01 22:10:42</LastLoginTime>
   </User>
 </Users>
